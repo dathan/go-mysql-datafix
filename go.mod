@@ -1,3 +1,3 @@
-module github.com/dathan/go-project-template
+module github.com/dathan/go-mysql-datafix
 
 go 1.20
